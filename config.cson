@@ -1,0 +1,19 @@
+"*":
+  "exception-reporting":
+    userId: "18a9fd2c-d7b0-1346-a76b-37475891c383"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "seti-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 17
+  linter: {}
+  react: {}
+  "isotope-ui":
+    backgroundGradient: true
+  tabs:
+    usePreviewTabs: true
